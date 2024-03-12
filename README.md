@@ -7,6 +7,7 @@ This repository serves as the central hub for the deployment of the [PokeClone](
 The primary objective is to apply knowledge and skills in various technologies and tools studied throughout the course, focusing on automation, scalability, and efficient deployment on the AWS cloud.
 
 ## Development Team
+
 <div align="center">
 <img src="./images/pokevets.png">
 <hr>
@@ -21,7 +22,7 @@ Xinxin Hou [GitHub](https://github.com/hxin1123)
 
 ## Repository Structure
 
-The deployment of this app is split between two repositories. This one handles the Docker and Kubernetes, while the AWS infrastructure is created through our [Terraform](https://github.com/epquito/terraform-pokeclone) repo.
+The deployment of this app is split between two repositories. This one handles the Docker and Kubernetes, while the AWS infrastructure is created through our [Terraform](https://github.com/stephanlamoureux/pokeclone-terraform) repo.
 
 This repository is organized into multiple branches, each dedicated to different stages of the deployment process:
 
