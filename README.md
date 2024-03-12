@@ -25,7 +25,7 @@ The deployment of this app is split between two repositories. This one handles t
 
 This repository is organized into multiple branches, each dedicated to different stages of the deployment process:
 
-### `master` Branch
+### `main` Branch
 
 - Provides an overview of the project and links to other branches detailing specific deployment strategies.
 
